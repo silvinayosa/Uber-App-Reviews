@@ -14,7 +14,7 @@ from sklearn.manifold import MDS
 import matplotlib.pyplot as plt
 
 # Load the dataset
-data = pd.read_csv('uber_reviews_without_reviewid.csv')
+data = pd.read_csv('../data/uber_reviews_without_reviewid.csv')
 
 import matplotlib.pyplot as plt
 import seaborn as sns
